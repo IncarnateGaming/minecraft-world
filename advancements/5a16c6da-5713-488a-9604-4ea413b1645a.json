@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-05-11 21:31:12 +0000"
@@ -938,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2020-06-23 22:40:12 +0000"
@@ -1082,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-05-11 20:43:47 +0000"
@@ -1097,6 +1115,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-06-23 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
     },
     "done": true
   },
@@ -1394,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-05-19 23:56:12 +0000"
@@ -1574,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-05-11 20:19:15 +0000"
@@ -1589,6 +1625,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-05-11 20:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
     },
     "done": true
   },
@@ -1845,6 +1887,7 @@
       "minecraft:forest": "2020-05-11 19:53:29 +0000",
       "minecraft:mountains": "2020-05-11 19:44:36 +0000",
       "minecraft:badlands_plateau": "2020-06-25 22:54:07 +0000",
+      "minecraft:mushroom_fields": "2020-07-18 00:28:13 +0000",
       "minecraft:taiga": "2020-05-11 19:37:55 +0000",
       "minecraft:desert_hills": "2020-05-28 23:12:04 +0000",
       "minecraft:deep_cold_ocean": "2020-05-15 01:14:55 +0000",
@@ -1867,6 +1910,7 @@
       "minecraft:wooded_hills": "2020-05-11 19:49:52 +0000",
       "minecraft:stone_shore": "2020-05-11 19:59:46 +0000",
       "minecraft:wooded_badlands_plateau": "2020-06-25 22:53:48 +0000",
+      "minecraft:mushroom_field_shore": "2020-07-18 00:28:07 +0000",
       "minecraft:swamp": "2020-05-11 19:47:51 +0000",
       "minecraft:savanna": "2020-05-31 02:05:09 +0000",
       "minecraft:plains": "2020-05-11 19:41:09 +0000"
@@ -1960,6 +2004,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-05-11 20:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
     },
     "done": true
   },
@@ -2098,6 +2148,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-05-30 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
     },
     "done": true
   },
@@ -2318,6 +2374,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-05-11 19:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
     },
     "done": true
   },
@@ -2645,6 +2707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-02 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2020-05-17 20:57:13 +0000"
@@ -2727,6 +2795,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2020-06-23 22:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-07-15 22:26:49 +0000"
     },
     "done": true
   },
@@ -3942,6 +4016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-08-01 21:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-05-11 21:47:24 +0000"
@@ -4035,6 +4115,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2020-05-30 01:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-07-18 18:59:28 +0000"
     },
     "done": true
   },
